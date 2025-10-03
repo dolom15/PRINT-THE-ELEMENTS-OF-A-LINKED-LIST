@@ -1,1 +1,2 @@
 # PRINT-THE-ELEMENTS-OF-A-LINKED-LIST
+An array's elements are rotated to the left by a specified amount of times using this program.  The rotateLeft function rotates the elements so that the first d items go to the end of the list after determining how many rotations are required.  The array and the number of rotations are read from the user by the Main method, which then performs the function and outputs the rotated array.
